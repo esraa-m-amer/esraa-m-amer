@@ -11,7 +11,7 @@ Skilled in 🐞 Bug Tracking, 🧪 API Testing, Databases, 📝 Test Planning, R
 
 #### 📫 How to reach me:
 - :link: linkedin : https://www.linkedin.com/in/esraa3amer
-
+<!--
 ### My skills
 
 #### Programming Languages
@@ -40,3 +40,4 @@ Skilled in 🐞 Bug Tracking, 🧪 API Testing, Databases, 📝 Test Planning, R
 
 <div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amrgnegm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/amrgnegm?trk=profile-badge">Amr Negm</a></div>
               
+--!>
