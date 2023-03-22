@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Esraa Amer
 
-Experienced ISTQB® ✅ Certified Software Quality Control Engineer, with +2 years of professional experience. With demonstrated history of working in 🏭 multiple industries. Seeking to have software-testing challenges where I can learn new technologies and methodologies to enhance my technical and interpersonal skills.
+Experienced ISTQB® ✅ Certified Software Quality Control Engineer, with +4 years of professional experience. With demonstrated history of working in 🏭 multiple industries. Seeking to have software-testing challenges where I can learn new technologies and methodologies to enhance my technical and interpersonal skills.
 
-Skilled in 🐞 Bug Tracking, 🧪 API Testing, Databases, 📝 Test Planning, Regression Testing, and Black Box Testing.
+Skilled in 🐞 Bug Tracking, 🧪 API Testing, Databases, Mobile Applicaton Testing, UI Testing, 📝 Test Planning, Regression Testing, and Black Box Testing.
 
 #### 🔭 I’m currently working on
 
