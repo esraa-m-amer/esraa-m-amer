@@ -4,11 +4,6 @@ Experienced ISTQB® ✅ Certified Software Quality Control Engineer, with +4 yea
 
 Skilled in 🐞 Bug Tracking, 🧪 API Testing, Databases, Mobile Applicaton Testing, UI Testing, 📝 Test Planning, Regression Testing, and Black Box Testing.
 
-#### 🔭 I’m currently working on
-
-1. Learning **Web App testing automation** using Selinum.
-2. Learning API automation (**Rest Assured Automation**).
-
 #### 📫 How to reach me:
 - :link: linkedin : https://www.linkedin.com/in/esraa3amer
 <!--
